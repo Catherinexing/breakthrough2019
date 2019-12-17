@@ -1,0 +1,13 @@
+.donut{
+ font-size: 12px !important;
+
+}
+
+@media (max-width:600px) {
+  .toc .cover_content h1 {
+    position: relative;
+    width: 100%;
+    top: -65%;
+    z-index: 50;
+
+}
